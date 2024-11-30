@@ -1,0 +1,25 @@
+body{ 
+    height: 2000px;
+    background-color: rgb(243, 233, 221);
+}
+
+.sticky{
+    position:sticky;
+    top:0;
+    background-color: rgb(231, 197, 153);
+    padding:20px 20px;
+    font-size: 40px;
+    padding-left: 70px;
+    margin-top: 30px;
+    font-weight: bold;
+
+}
+p{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 15px;
+    text-align:justify;
+    font-size:25px;
+
+   
+}
